@@ -1,0 +1,7 @@
+<title>-歌曲-</title>
+<h1>来听听歌吧！</h1>
+<a class="s-news-item-title c-link c-font-big c-line-clamp1" href="https://purplecloud93.rthe.net/songs/mysongs" data-click="LOG_LINK">我做的歌</a>
+<p></p>
+<a class="s-news-item-title c-link c-font-big c-line-clamp1" href="https://purplecloud93.rthe.net/songs/osongs" data-click="LOG_LINK">其他歌曲</a>
+<p></p>
+<a class="s-news-item-title c-link c-font-big c-line-clamp1" href="https://purplecloud93.rthe.net" data-click="LOG_LINK">回到欢迎页面</a>

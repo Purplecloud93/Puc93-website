@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>元素周期表</head>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
+		<title>periodic-table</title>
+		<link rel="stylesheet" href="demo.css">
+	</head>
+	<body>
+		<h1>Demo of "periodic-table" -by 杨尚臻</h1>
+		<p>
+			Create a visible periodic table: <a href="javascript:createList(document.getElementById('elements'))">createList(document.getElementById("elements"))</a><br>
+			The class list of each element contains "periodic-table".
+		</p>
+		<p>
+			Get the information of the element: <a href="javascript:getElementDemo()">getElement("<input id="getElement" type="text" value="oxygen">")</a><br>
+			You can put any of these in the input box above: "8" "o" "oxygen" "氧" "15.999"
+		</p>
+		<p>
+			Get the information of the compound: <a href="javascript:getCompoundDemo()">getCompound("<input id="getCompound" type="text" value="carbon dioxide">")</a><br>
+			You can put any of these in the input box above: "carbon dioxide" "CO2" "c o2" "二氧化碳"
+		</p>
+		<p>抱歉，上面这个无法使用qwq</p>
+		<ul id="elements"></ul>
+		<script src="https://cdn.jsdelivr.net/gh/shangzhenyang/periodic-table/periodictable.min.js"></script>
+		<script src="demo.js"></script>
+	</body>
+</html>
+<p></p>
+<a class="s-news-item-title c-link c-font-big c-line-clamp1" href="https://purplecloud93.rthe.net" data-click="LOG_LINK">回到欢迎页面</a>
